@@ -17,19 +17,7 @@ ShopNow is an e-commerce web application built using the MERN stack (MongoDB, Ex
 - *Frontend*: React.js, JSX, CSS
 - *Backend*: Node.js (Coming soon or in progress)
 - *Other Tools*: Git, VS Code, GitHub
-- ## Getting Started
 
-1. Clone this repository:
-git clone https://github.com/vaidyapranav/shopnow.git
-
-2 setting up main frounted:
-cd main-shopnow
-npm install 
-npm run dev
-3.setting backend 
-cd actual-backend
-npm install 
-npm start
 TECH STACK
 Frontend: React.js, JSX, CSS
 
