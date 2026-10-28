@@ -33,9 +33,4 @@ Shopping cart & order placement
 
 Admin dashboard (Product & User management)
 
-Payment integration (Razorpay/Stripe)
-
-
-Author
-pranav
-GitHub: @vaidyapranav
+Payment integration (Razorpay/Strpe)
